@@ -72,7 +72,7 @@ Do you know that you can use your Git repository to show simple webpages? In thi
 #### Adding a URL shortener for easy sharing
 This guide will not cover how to purchase and configure a domain name example: [eduardoalvarez.com](http://www.eduardoalvarez.com), but at least will teach a quick workaround to have a nice personalized link to share with friends and potential employers.
 
-With your CV published on Google Firebase, follow this steps:
+With your CV published on GitHub Pages, follow this steps:
 1. Go to [Tiny URL](https://tiny.cc). 
 2. Pasted the link where the "Paste a Long URL" text appear.
 3. Write your name and surname where the "Custom" text appear.
