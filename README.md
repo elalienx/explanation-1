@@ -1,5 +1,5 @@
 # HTML First introduction
-This web starter template is based on pure HTML 5, CSS 3.0 to create and online curriculum vitae that you can share online with prospective recruiters. In addition with will publish to a web server using Google Firebase and use Tiny URL to personalize a URL. Check the following links for documentation and guides:
+This web starter template is based on pure HTML 5, CSS 3.0 to create and online curriculum vitae that you can share online with prospective recruiters. In addition with will publish to a web server using GitHub pages and use Tiny URL to personalize a URL. Check the following links for documentation and guides:
 - [HTML 5](https://www.w3schools.com/html/html5_intro.asp)
 - [CSS 3.0](https://www.w3schools.com/css/)
 - [Bootstrap](https://getbootstrap.com)
@@ -9,7 +9,7 @@ Extra elements 1:
 - [Font awesome icons](https://fontawesome.com)
 
 Extra elements 2:
-- [Google Firebase hosting](https://firebase.google.com/products/hosting/)
+- [GitHub pages hosting](https://pages.github.com)
 - [Tiny URL](https://tiny.cc)
 
 Tip: Use CMD + click on Mac or Ctrl + click on Windows to open link in a new browser tab.
@@ -19,7 +19,7 @@ Our project is a front-development single page document that consist of three pa
 1. The markup file (index.html)
 2. The column layout (Bootstrap grid)
 3. Personalizing style (style.css)
-4. (Extra) The server configuration (Firebase hosting)
+4. (Extra) The server configuration (GitHub pages)
 
 ### Pre-requisites
 - Check the end result example.
@@ -63,8 +63,11 @@ Go to [Font awesome icons](https://fontawesome.com)] to browse for icons that yo
 ### Extra task 2: Publish on the internet
 This optional tasks will allow you to publish your content on the internet, ready to share with anybody. To do so, you need a server that store your files and a URL that people can write to locate your website.
 
-#### Publish on Google Firebase
-
+#### Publish on GitHub pages
+Do you know that you can use your Git repository to show simple webpages? In this extra step we will do just that. To publish your CV follow this steps:
+1. On your GitHub git repository, click on settings.
+2. Scroll down until you find the section "GitHub Pages" and on the "Source" subtitle choose "master branch".
+3. Click on the green bar with the link that appeared just above this section.
 
 #### Adding a URL shortener for easy sharing
 This guide will not cover how to purchase and configure a domain name example: [eduardoalvarez.com](http://www.eduardoalvarez.com), but at least will teach a quick workaround to have a nice personalized link to share with friends and potential employers.
