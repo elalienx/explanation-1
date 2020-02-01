@@ -48,7 +48,7 @@ Visit the website [VSCode](https://code.visualstudio.com) and download the insta
 #### Publish on Google Firebase
 
 #### Adding a URL shortener for easy sharing
-This guide will not cover how to purchase and configure a domain name example: [www.eduardoalvarez.com](www.eduardoalvarez.com), but at least will teach a quick workaround to have a nice personalized link to share with friends and potential employers.
+This guide will not cover how to purchase and configure a domain name example: [eduardoalvarez.com](http://www.eduardoalvarez.com), but at least will teach a quick workaround to have a nice personalized link to share with friends and potential employers.
 
 With your CV published on Google Firebase, follow this steps:
 1. Go to [Tiny URL](https://tiny.cc). 
