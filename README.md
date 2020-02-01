@@ -3,7 +3,12 @@ This web starter template is based on pure HTML 5, CSS 3.0 to create and online 
 - [HTML 5](https://www.w3schools.com/html/html5_intro.asp)
 - [CSS 3.0](https://www.w3schools.com/css/)
 - [Bootstrap](https://getbootstrap.com)
+
+Extra elements 1:
 - [Google Fonts](https://fonts.google.com)
+- [Font awesome icons](https://fontawesome.com)
+
+Extra elements 2:
 - [Google Firebase hosting](https://firebase.google.com/products/hosting/)
 - [Tiny URL](https://tiny.cc)
 
@@ -21,14 +26,19 @@ Our project is a front-development single page document that consist of three pa
 - Install a proper IDE/Text editor fo Java and Javascript. IntelliJ community edition is recommended for Java development but doesn't work very well with JavaScript. It's therefore recommended to use VS Code or any other JavaScript-friendly IDE when working with frontend code.
 - Install Node.js (if good to use Node on the first week?)
 
-### Example
+### Example result
 Visit the website [Eduardo Alvarez Curriculum Vitae](http://tiny.cc/eduardo-cv). Analyze the structure: introduction, work experience, education and contact information. Think about what sections do you need and what additional content can you include to improve it.
 
 ### Install VS Code
 Visit the website [VSCode](https://code.visualstudio.com) and download the installer using the button with the label "Stable build". Then proceed with the installation.
 
-### Writing the markup information
+### Main task
+#### Writing the markup information
 
-### Adding the basic column grid
+#### Adding the basic column grid
 
-### Personalizing
+#### Personalizing
+
+### Extra task 1: Additional personalization
+
+### Extra task 2: Publish on the internet
