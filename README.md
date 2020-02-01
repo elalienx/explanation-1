@@ -32,10 +32,29 @@ Visit the website [VSCode](https://code.visualstudio.com) and download the insta
 
 ### Main task
 #### Writing the markup information
+1. Use the tag <main> to contain your whole project. The equivalent of an entire physical book.
+2. Use the tag <head> for your introduction part. The equivalent of the cover of a book.
+3. Use the tag <section> to specify a complete section that can stand on their own. This is the equivalent of a entire book chapter.
+4. Use the tag <article> to specify a small part piece of text or content. The equivalent of a page on your book.
+5. Use the tag <footer> to specify the last part of your page. The equivalent of the back cover of a book.
+
+![HTML reference structure](./images/html-structure.png)
+*HTML reference structure*
+
 
 #### Adding the basic column grid
+Bootstrap is a CSS framework, that allow you to quickly add a layout structure and style to your webpages and web projects. We will use Bootstrap to generate the 3 column layout.
+
+1. Copy the CDN link of Bootstrap on the head of your file.
+2. Read about the column CSS classes row and column on the documentation (class="row") (class="col-sm") on the documentation to make the 3 column layout.
+3. Double check that works both on Desktop and mobile (to quickly simulate a mobile device just narrow your browser window)
 
 #### Personalizing
+We can further personalize the project, by applying some basic CSS properties to your HTML tags. To do so, follow this steps:
+
+1. Create a new folder called "css".
+2. Create a file called "style.css" inside the previous folder.
+3. Create a link tag on your project head that points to that style.
 
 ### Extra task 1: Additional personalization
 This optional task will allow you to increase the appear of your CV, increasing the chances of a recruiter reading from begining to the end, by adding small touches like custom fonts and icons.
@@ -50,7 +69,7 @@ Go to [Google Fonts](https://fonts.google.com), look for a typography that you l
 6. Paste the code on the body tag in your CSS file.
 
 #### Adding icons
-Go to [Font awesome icons](https://fontawesome.com)] to browse for icons that you want to add and then follow this steps:
+Go to [Font awesome icons](https://fontawesome.com) to browse for icons that you want to add and then follow this steps:
 1. Add this script to the head tag of your page: <script src="https://kit.fontawesome.com/86134dd369.js" crossorigin="anonymous"></script>
 2. Copy the tag of the icon you want to use (check the image below for reference)
 3. Paste the HTML tag inside your document.
