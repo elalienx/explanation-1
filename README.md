@@ -19,7 +19,6 @@ Our project is a front-development single page document that consist of three pa
 1. The markup file (index.html)
 2. The column layout (Bootstrap grid)
 3. Personalizing style (style.css)
-4. (Extra) The server configuration (GitHub pages)
 
 ### Pre-requisites
 - Check the end result example.
@@ -66,8 +65,15 @@ This optional tasks will allow you to publish your content on the internet, read
 #### Publish on GitHub pages
 Do you know that you can use your Git repository to show simple webpages? In this extra step we will do just that. To publish your CV follow this steps:
 1. On your GitHub git repository, click on settings.
-2. Scroll down until you find the section "GitHub Pages" and on the "Source" subtitle choose "master branch".
-3. Click on the green bar with the link that appeared just above this section.
+2. Scroll down until you find the section "GitHub Pages" and click on source
+3. Selecte your master branch.
+4. Click on the green bar with the link that appeared just above this section.
+
+![GitHub pages step 1](./images/github-1.png)
+*Step 1*
+
+![GitHub pages step 2-4](./images/github-2.png)
+*Steps 2 through 4*
 
 #### Adding a URL shortener for easy sharing
 This guide will not cover how to purchase and configure a domain name example: [eduardoalvarez.com](http://www.eduardoalvarez.com), but at least will teach a quick workaround to have a nice personalized link to share with friends and potential employers.
