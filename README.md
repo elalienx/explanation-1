@@ -2,7 +2,9 @@
 This web starter template is based on pure HTML 5, CSS 3.0 to create and online curriculum vitae that you can share online with prospective recruiters. In addition with will publish to a web server using Google Firebase and use Tiny URL to personalize a URL. Check the following links for documentation and guides:
 - [HTML 5](https://www.w3schools.com/html/html5_intro.asp)
 - [CSS 3.0](https://www.w3schools.com/css/)
-- [Firebase hosting](https://firebase.google.com/products/hosting/)
+- [Bootstrap](https://getbootstrap.com)
+- [Google Fonts](https://fonts.google.com)
+- [Google Firebase hosting](https://firebase.google.com/products/hosting/)
 - [Tiny URL](https://tiny.cc)
 
 Tip: Use CMD + click on Mac or Ctrl + click on Windows to open link in a new browser tab.
@@ -10,8 +12,9 @@ Tip: Use CMD + click on Mac or Ctrl + click on Windows to open link in a new bro
 ## Setup
 Our project is a front-development single page document that consist of three parts:
 1. The markup file (index.html)
-2. The style (style.css)
-3. (Extra) The server configuration (Firebase)
+2. The column layout (Bootstrap grid)
+3. Personalizing style (style.css)
+4. (Extra) The server configuration (Firebase hosting)
 
 ### Pre-requisites
 - Check the end result example.
@@ -24,4 +27,8 @@ Visit the website [Eduardo Alvarez Curriculum Vitae](http://tiny.cc/eduardo-cv).
 ### Install VS Code
 Visit the website [VSCode](https://code.visualstudio.com) and download the installer using the button with the label "Stable build". Then proceed with the installation.
 
-### 
+### Writing the markup information
+
+### Adding the basic column grid
+
+### Personalizing
