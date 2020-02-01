@@ -24,7 +24,6 @@ Our project is a front-development single page document that consist of three pa
 ### Pre-requisites
 - Check the end result example.
 - Install a proper IDE/Text editor fo Java and Javascript. IntelliJ community edition is recommended for Java development but doesn't work very well with JavaScript. It's therefore recommended to use VS Code or any other JavaScript-friendly IDE when working with frontend code.
-- Install Node.js (if good to use Node on the first week?)
 
 ### Example result
 Visit the website [Eduardo Alvarez Curriculum Vitae](http://tiny.cc/eduardo-cv). Analyze the structure: introduction, work experience, education and contact information. Think about what sections do you need and what additional content can you include to improve it.
@@ -52,6 +51,13 @@ Go to [Google Fonts](https://fonts.google.com), look for a typography that you l
 6. Paste the code on the body tag in your CSS file.
 
 #### Adding icons
+Go to [Font awesome icons](https://fontawesome.com)] to browse for icons that you want to add and then follow this steps:
+1. Add this script to the head tag of your page: <script src="https://kit.fontawesome.com/86134dd369.js" crossorigin="anonymous"></script>
+2. Copy the tag of the icon you want to use (check the image below for reference)
+3. Paste the HTML tag inside your document.
+4. Don't forget to add a margin right or bottom to avoid having the icon to close to any other element.
+
+![Font awesome tag](./images/font-awesome.png) 
 
 ### Extra task 2: Publish on the internet
 This optional tasks will allow you to publish your content on the internet, ready to share with anybody. To do so, you need a server that store your files and a URL that people can write to locate your website.
