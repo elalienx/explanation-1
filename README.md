@@ -1,9 +1,11 @@
 # HTML First introduction
 This web starter template is based on pure HTML 5, CSS 3.0 to create and online curriculum vitae that you can share online with prospective recruiters. In addition with will publish to a web server using Google Firebase and use Tiny URL to personalize a URL. Check the following links for documentation and guides:
-- [HTML 5](https://www.w3schools.com/html/html5_intro.asp){:target="_blank"}
+- [HTML 5](https://www.w3schools.com/html/html5_intro.asp)
 - [CSS 3.0](https://www.w3schools.com/css/)
 - [Firebase hosting](https://firebase.google.com/products/hosting/)
 - [Tiny URL](https://tiny.cc)
+
+Tip: Use CMD + click on Mac or Ctrl + click on Windows to open link in a new browser tab.
 
 ## Setup
 Our project is a front-development single page document that consist of three parts:
