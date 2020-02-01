@@ -69,7 +69,7 @@ Do you know that you can use your Git repository to show simple webpages? In thi
 3. Selecte your master branch.
 4. Click on the green bar with the link that appeared just above this section.
 
-![GitHub pages step 1](./images/github-1.png | width=50)
+![GitHub pages step 1](./images/github-1.png)
 *Step 1*
 
 ![GitHub pages step 2-4](./images/github-2.png)
