@@ -45,7 +45,10 @@ Visit the website [VSCode](https://code.visualstudio.com) and download the insta
 #### Adding icons
 
 ### Extra task 2: Publish on the internet
+This optional tasks will allow you to publish your content on the internet, ready to share with anybody. To do so, you need a server that store your files and a URL that people can write to locate your website.
+
 #### Publish on Google Firebase
+
 
 #### Adding a URL shortener for easy sharing
 This guide will not cover how to purchase and configure a domain name example: [eduardoalvarez.com](http://www.eduardoalvarez.com), but at least will teach a quick workaround to have a nice personalized link to share with friends and potential employers.
