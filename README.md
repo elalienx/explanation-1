@@ -40,7 +40,16 @@ Visit the website [VSCode](https://code.visualstudio.com) and download the insta
 #### Personalizing
 
 ### Extra task 1: Additional personalization
+This optional task will allow you to increase the appear of your CV, increasing the chances of a recruiter reading from begining to the end, by adding small touches like custom fonts and icons.
+
 #### Adding fonts
+Go to [Google Fonts](https://fonts.google.com), look for a typography that you like (this example uses Gothic A1) and then follow these steps:
+1. Press the red circle with a "+" sign to add to the download list.
+2. Press the black bar with the text "Family Selected".
+3. Copy the HTML link tag that appear below the subtitle "Embed Font".
+4. Paste the link tag at the end of your head tag inside your web file.
+5. Copy the CSS code that appear below the subtile "Specify in CSS".
+6. Paste the code on the body tag in your CSS file.
 
 #### Adding icons
 
