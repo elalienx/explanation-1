@@ -57,7 +57,8 @@ Go to [Font awesome icons](https://fontawesome.com)] to browse for icons that yo
 3. Paste the HTML tag inside your document.
 4. Don't forget to add a margin right or bottom to avoid having the icon to close to any other element.
 
-![Font awesome tag](./images/font-awesome.png) 
+![Font awesome tag](./images/font-awesome.png)
+*Where to find the icon tag on Font Awesome*
 
 ### Extra task 2: Publish on the internet
 This optional tasks will allow you to publish your content on the internet, ready to share with anybody. To do so, you need a server that store your files and a URL that people can write to locate your website.
