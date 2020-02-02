@@ -1,18 +1,16 @@
 # HTML Introduction
-This web starter template is based on pure HTML 5, CSS 3.0 to create an online curriculum vitae that you can share online with prospective recruiters. In addition, with will publish to a web server using GitHub pages and use Tiny URL to personalize a URL. Check the following links for documentation and guides:
+This web starter template is based on pure HTML 5, CSS 3.0 to create an online curriculum vitae that you can share online with prospective recruiters. In addition, with will publish it to a web server using GitHub pages and use Tiny URL to personalize the URL. Check the following links for documentation and guides:
 - [HTML 5](https://www.w3schools.com/html/html5_intro.asp)
 - [CSS 3.0](https://www.w3schools.com/css/)
 - [Bootstrap](https://getbootstrap.com)
-
-Extra elements 1:
-- [Google Fonts](https://fonts.google.com)
-- [Font awesome icons](https://fontawesome.com)
-
-Extra elements 2:
 - [GitHub pages hosting](https://pages.github.com)
-- [Tiny URL](https://tiny.cc)
 
 Tip: Use CMD + click on Mac or Ctrl + click on Windows to open link in a new browser tab.
+
+Extra elements:
+- [Google Fonts](https://fonts.google.com)
+- [Font awesome icons](https://fontawesome.com)
+- [Tiny URL](https://tiny.cc)
 
 ## Setup
 Our project is a front-development single-page document that consists of three parts:
@@ -41,7 +39,6 @@ Visit the website [VSCode](https://code.visualstudio.com) and download the insta
 ![HTML reference structure](./images/html-structure.png)
 *Figure 1: HTML reference structure*
 
-
 #### Adding the basic column grid
 Bootstrap is a CSS framework that allows you to quickly add a layout structure and style to your webpages and web projects. We will use Bootstrap to generate the 3 column layout.
 1. Copy the CDN link of Bootstrap on the head of your file.
@@ -54,9 +51,22 @@ We can further personalize the project by applying some basic CSS properties to 
 2. Create a file called "style.css" inside the previous folder.
 3. Create a link tag on your project head that points to that style.
 
-### Extra task 1: Additional personalization
-This optional task will allow you to increase the appeal of your CV by adding small touches like custom fonts and icons, increasing the chances of a recruiter reading it from the beginning to the end.
+#### Publish on GitHub pages
+Do you know that you can use your Git repository to show simple webpages? In this extra step, we will do just that. To publish your CV follow these steps:
+1. On your GitHub git repository, click on settings.
+2. Scroll down until you find the section "GitHub Pages" and click on the source
+3. Select your master branch.
+4. Click on the green bar with the link that appeared just above this section.
 
+![GitHub pages step 1](./images/github-1.png)
+*Figure 2: GitHub pages step 1*
+
+---
+
+![GitHub pages step 2-4](./images/github-2.png)
+*Figure 3: GitHub pages steps 2 to 4*
+
+### Extra tasks
 #### Adding fonts
 Go to [Google Fonts](https://fonts.google.com), look for a typography that you like (this example uses Gothic A1) and then follow these steps:
 1. Press the red circle with a "+" sign to add to the download list.
@@ -74,25 +84,7 @@ Go to [Font awesome icons](https://fontawesome.com) to browse for icons that you
 4. Don't forget to add a margin-right or bottom to avoid having the icon to close to any other element.
 
 ![Font awesome tag](./images/font-awesome.png)
-*Figure 2: Where to find the icon tag on Font Awesome*
-
-### Extra task 2: Publish on the internet
-This optional tasks will allow you to publish your content on the internet, ready to share with anybody. To do so, you need a server that stores your files and a URL that people can write to locate your website.
-
-#### Publish on GitHub pages
-Do you know that you can use your Git repository to show simple webpages? In this extra step, we will do just that. To publish your CV follow these steps:
-1. On your GitHub git repository, click on settings.
-2. Scroll down until you find the section "GitHub Pages" and click on the source
-3. Select your master branch.
-4. Click on the green bar with the link that appeared just above this section.
-
-![GitHub pages step 1](./images/github-1.png)
-*Figure 3: GitHub pages step 1*
-
----
-
-![GitHub pages step 2-4](./images/github-2.png)
-*Figure 4: GitHub pages steps 2 to 4*
+*Figure 4: Where to find the icon tag on Font Awesome*
 
 #### Adding a URL shortener for easy sharing
 This guide will not cover how to purchase or configure a domain name like [eduardoalvarez.com](http://www.eduardoalvarez.com), but at least will teach a quick workaround to have a personalized link to share with friends and potential employers.
