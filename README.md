@@ -15,10 +15,10 @@ This web starter template is based on pure HTML 5, CSS 3.0 to create an online c
 *Tip: Use CMD + click on Mac or Ctrl + click on Windows to open link in a new browser tab.*
 
 ## Setup
-Our project is a front-development single-page document that consists of three parts:
-1. The markup file (index.html)
+Our front-development project is a single-page document that consists of three parts:
+1. The markup file (The HTML file)
 2. The column layout (Bootstrap grid)
-3. Personalizing style (style.css)
+3. Personalizing style (The CSS file)
 
 ### Pre-requisites
 - Check the result example.
