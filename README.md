@@ -1,5 +1,7 @@
 # HTML Introduction
 This web starter template is based on pure HTML 5, CSS 3.0 to create an online curriculum vitae that you can share online with prospective recruiters. In addition, with will publish it to a web server using GitHub pages and use Tiny URL to personalize the URL. Check the following links for documentation and guides:
+
+Required elements
 - [HTML 5](https://www.w3schools.com/html/html5_intro.asp)
 - [CSS 3.0](https://www.w3schools.com/css/)
 - [Bootstrap](https://getbootstrap.com)
