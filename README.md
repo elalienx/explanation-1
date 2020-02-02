@@ -5,12 +5,12 @@ This web starter template is based on pure HTML 5, CSS 3.0 to create an online c
 - [Bootstrap](https://getbootstrap.com)
 - [GitHub pages hosting](https://pages.github.com)
 
-Tip: Use CMD + click on Mac or Ctrl + click on Windows to open link in a new browser tab.
-
 Extra elements:
 - [Google Fonts](https://fonts.google.com)
 - [Font awesome icons](https://fontawesome.com)
 - [Tiny URL](https://tiny.cc)
+
+*Tip: Use CMD + click on Mac or Ctrl + click on Windows to open link in a new browser tab.*
 
 ## Setup
 Our project is a front-development single-page document that consists of three parts:
