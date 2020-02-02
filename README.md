@@ -32,11 +32,11 @@ Visit the website [VSCode](https://code.visualstudio.com) and download the insta
 
 ### Main task
 #### Writing the markup information
-1. Use the tag <main> to contain your whole project. The equivalent of an entire physical book.
-2. Use the tag <head> for your introduction part. The equivalent of the cover of a book.
-3. Use the tag <section> to specify a complete section that can stand on their own. This is the equivalent of an entire book chapter.
-4. Use the tag <article> to specify a small part piece of text or content. The equivalent of a page on your book.
-5. Use the tag <footer> to specify the last part of your page. The equivalent of the back cover of a book.
+1. Use the tag `<main>` to contain your whole project. The equivalent of an entire physical book.
+2. Use the tag `<head>` for your introduction part. The equivalent of the cover of a book.
+3. Use the tag `<section>` to specify a complete section that can stand on their own. This is the equivalent of an entire book chapter.
+4. Use the tag `<article>` to specify a small part piece of text or content. The equivalent of a page on your book.
+5. Use the tag `<footer>` to specify the last part of your page. The equivalent of the back cover of a book.
 
 ![HTML reference structure](./images/html-structure.png)
 *Figure 1: HTML reference structure*
