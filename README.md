@@ -1,4 +1,4 @@
-# HTML First introduction
+# HTML Introduction
 This web starter template is based on pure HTML 5, CSS 3.0 to create an online curriculum vitae that you can share online with prospective recruiters. In addition, with will publish to a web server using GitHub pages and use Tiny URL to personalize a URL. Check the following links for documentation and guides:
 - [HTML 5](https://www.w3schools.com/html/html5_intro.asp)
 - [CSS 3.0](https://www.w3schools.com/css/)
@@ -88,6 +88,8 @@ Do you know that you can use your Git repository to show simple webpages? In thi
 
 ![GitHub pages step 1](./images/github-1.png)
 *Figure 3: GitHub pages step 1*
+
+---
 
 ![GitHub pages step 2-4](./images/github-2.png)
 *Figure 4: GitHub pages steps 2 to 4*
